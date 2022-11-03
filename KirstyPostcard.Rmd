@@ -1,0 +1,38 @@
+---
+title: "Kirsty Hawkins"
+image: "ontosync_still.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/kirsty-hawkins-0ab03a171/"
+  - label: Twitter
+    url: "https://twitter.com/_kirstyhawkins"
+  - label: GitHub
+    url: "https://github.com/kirstyhawkins"
+  - label: Email
+    url: "mailto:kirstyhawkins435@gmail.com"
+
+output:
+  postcards::trestles
+---
+
+Kirsty Hawkins researches music cognition, specifically the management and organisation of musical information in working memory. Her PhD project is under the supervision of [Daniel Mullensiefen](https://www.gold.ac.uk/psychology/staff/mullensiefen/). Kirsty is developing a novel music-based measure for prioritisation, with the aim of using this to improve general working memory.
+
+Beyond her Ph.D work, Kirsty has a number of part-time positions both in and outside of academia. Notably, [OntoSync](www.ontosync.com) is a startup organisation rooted in cognitive psychology that Kirsty works closely with as the Research and Project Delivery Lead. Kirsty also works as a Research Officer for [PRS for Music](https://www.prsformusic.com/), ensuring music royalties are distributed to musicians timely and accurately. Kirsty uses these experiences as well as teaching roles inform her research.
+
+## Education
+
+**Goldsmiths, University of London**
+
+Ph.D. Psychology \| September 2021 - Present
+
+M.Sc. Music Mind and Brain \| September 2018 - September 2019
+
+## Experience
+
+**The Brilliant Club** \| Tutor \| October 2022 - Present
+
+**OntoSync** \| Research and Project Delivery Lead \| July 2022 - Present
+
+**Goldsmiths, UoL** \| Associate Lecturer \| Multivariate Statistics \| October 2021 - Present
+
+**PRS for Music** \| Research Officer \| September 2019 - Present
